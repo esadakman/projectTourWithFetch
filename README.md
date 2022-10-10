@@ -51,7 +51,7 @@ SOLUTION
 To run this project, install it locally using npm or yarn:
 
 ```
-$ git clone https://github.com/esadakman/projectTourWithFetch.git
+$ git clone https://github.com/esadakman/reactjs-tour-project.git
 $ cd projectTourWithFetch/
 $ npm install / yarn
 $ npm start / yarn start
